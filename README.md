@@ -24,7 +24,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/crewAIInc/crewAI-tools/main/assets/crewai_logo.png" height="40" style="vertical-align:middle" />
   &nbsp;&nbsp;
-  <img src="openclaw.png" height="40" style="vertical-align:middle" />
+  <img src="openclaw1.png" height="40" style="vertical-align:middle" />
 </p>
 
 ---
