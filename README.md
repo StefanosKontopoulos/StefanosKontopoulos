@@ -22,9 +22,9 @@
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/crewAIInc/crewAI-tools/main/assets/crewai_logo.png" height="18" style="vertical-align:middle" />&nbsp;&nbsp;<b>CrewAI</b>
-  &nbsp;&nbsp;&nbsp;
-  <img src="openclaw.png" height="18" style="vertical-align:middle" />&nbsp;&nbsp;<b>OpenClaw</b>
+  <img src="https://raw.githubusercontent.com/crewAIInc/crewAI-tools/main/assets/crewai_logo.png" height="40" style="vertical-align:middle" />
+  &nbsp;&nbsp;
+  <img src="openclaw.png" height="40" style="vertical-align:middle" />
 </p>
 
 ---
