@@ -12,16 +12,19 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,java,js,react,tailwind,cpp,git,mysql&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,java,js,react,tailwind,cpp,git,mysql,postgresql&theme=dark&perline=10" />
   </a>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-F6500B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenClaw-1a1a2e?style=flat-square&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/crewAIInc/crewAI-tools/main/assets/crewai_logo.png" height="18" style="vertical-align:middle" />&nbsp;&nbsp;<b>CrewAI</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="openclaw.png" height="18" style="vertical-align:middle" />&nbsp;&nbsp;<b>OpenClaw</b>
 </p>
 
 ---
