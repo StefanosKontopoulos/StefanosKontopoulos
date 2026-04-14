@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-F6500B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenClaw-1a1a2e?style=flat-square&logoColor=white" />
 </p>
 
 ---
