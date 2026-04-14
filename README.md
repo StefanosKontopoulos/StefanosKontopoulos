@@ -27,10 +27,5 @@
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-ivory-chi-68.vercel.app/api?username=StefanosKontopoulos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats-ivory-chi-68.vercel.app/api/top-langs/?username=StefanosKontopoulos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com?user=StefanosKontopoulos&theme=tokyonight&hide_border=true" height="165" />
 </p>
