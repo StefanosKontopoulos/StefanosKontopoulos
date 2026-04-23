@@ -40,5 +40,5 @@
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=StefanosKontopoulos&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://raw.githubusercontent.com/StefanosKontopoulos/gif-terminal/main/output.gif" />
 </p>
